@@ -22,13 +22,20 @@ This is where this solution comes in! My goal is to help out Lending Club in cre
 
 # Process 
 The problem of predicting loan defaults was addressed by first loading and cleaning the loan application data, handling missing values, and converting relevant columns to appropriate data types. 
+
 Exploratory Data Analysis (EDA) was performed to understand variable distributions and their relationship with loan status. 
+
 Class imbalance was handled using SMOTE. 
+
 The data was then split into training and testing sets and scaled. 
+
 Baseline Logistic Regression, Random Forest, and XGBoost models were built and evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC. 
+
 Hyperparameter tuning was applied to XGBoost to optimize its performance. The models' training and test performance were compared to check for overfitting.
+
 
 # Running the project 
 Open the colab notebook and save it in your drive.
+
 Run the colab project.
 
