@@ -28,7 +28,7 @@ The data was then split into training and testing sets and scaled.
 Baseline Logistic Regression, Random Forest, and XGBoost models were built and evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC. 
 Hyperparameter tuning was applied to XGBoost to optimize its performance. The models' training and test performance were compared to check for overfitting.
 
-#Running the project 
+# Running the project 
 Open the colab notebook and save it in your drive.
 Run the colab project.
 
